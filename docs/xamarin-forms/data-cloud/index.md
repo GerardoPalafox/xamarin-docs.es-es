@@ -22,7 +22,7 @@ Para obtener una introducción al consumo del servicio web entre plataformas en 
 
 ## <a name="understanding-the-samplexamarin-formsdata-cloudwalkthroughmd"></a>[Descripción del ejemplo](~/xamarin-forms/data-cloud/walkthrough.md)
 
-Este artículo ofrece un tutorial de la aplicación de ejemplo de Xamarin.Forms que muestra cómo comunicar con los servicios web diferentes. Los temas tratados son la Anatomía de la aplicación, el modelo de datos, páginas e invocar operaciones del servicio web.
+Este artículo ofrece un tutorial de la aplicación de ejemplo de Xamarin.Forms que muestra cómo comunicar con los servicios web diferentes. Los temas tratados son la Anatomía de la aplicación, el modelo de datos, páginas e solicitar operaciones del servicio web.
 
 ## <a name="consuming-web-servicesxamarin-formsdata-cloudconsumingindexmd"></a>[Consumo de servicios web](~/xamarin-forms/data-cloud/consuming/index.md)
 
